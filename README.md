@@ -9,15 +9,15 @@ My most recent occupations:
    - Teaching Assistant at UBC CS department.
 ***
 # What I'm passionate about? ⚡
-    - Backend Development: What's more exciting than designing and coding the backbone of a system?
-    - Testing: It's always fun to break a working code 👓
-            - Check out my testing tool ⚒️: [StressThing](https://github.com/makhshari/StressThing)
-    - Internet-of-Things (IoT): 
-            - Check out my paper + presentation at [ICSE'21](https://conf.researchr.org/home/icse-2021) 🤓👔: [IoT Bugs and Development Challenges](https://conf.researchr.org/details/icse-2021/icse-2021-papers/67/IoT-Bugs-and-Development-Challenges)
-            - Check out an IoT System I developed: [RTTio](https://github.com/makhshari/RTTio)
-    - Machine Learning: Check out my paper
-            - Check out my paper 🤓: [On The Effect of Graph Representation of Source Code in Bug Detection](https://people.ece.ubc.ca/amirosein/files/graphStudy.pdf)
-            - And my tool ⚒️: [Graph Neural Network for Javascript Source Code](https://github.com/msintaha/BugClassificationWithGNN)
+    * Backend Development: What's more exciting than designing and coding the backbone of a system?
+    * Testing: It's always fun to break a working code 👓
+            * Check out my testing tool ⚒️: [StressThing](https://github.com/makhshari/StressThing)
+    * Internet-of-Things (IoT): 
+            * Check out my paper + presentation at [ICSE'21](https://conf.researchr.org/home/icse-2021) 🤓👔: [IoT Bugs and Development Challenges](https://conf.researchr.org/details/icse-2021/icse-2021-papers/67/IoT-Bugs-and-Development-Challenges)
+            * Check out an IoT System I developed: [RTTio](https://github.com/makhshari/RTTio)
+    * Machine Learning: Check out my paper
+            * Check out my paper 🤓: [On The Effect of Graph Representation of Source Code in Bug Detection](https://people.ece.ubc.ca/amirosein/files/graphStudy.pdf)
+            * And my tool ⚒️: [Graph Neural Network for Javascript Source Code](https://github.com/msintaha/BugClassificationWithGNN)
 
 ***
 *BUT*, I'm always on a mission to learn something new..
@@ -27,7 +27,9 @@ My most recent occupations:
     - Testing:  
 ***
  # How to reach me?
+
  [My Linkedin](https://www.linkedin.com/in/makhshari/) 
+
  [My Homepage](https://makhshari.github.io/)    
 
 
