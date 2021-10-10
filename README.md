@@ -7,7 +7,7 @@ I'm 25, graduated with masters from UBC Computer Engineering Department 🎓
 My most recent occupations: 
    - Research Assistant at SALT Lab @UBC ECE Department working on a research project by [Intel](https://www.intel.ca/content/www/ca/en/homepage.html)
    - Teaching Assistant at UBC CS department.
-***
+
 # What I'm passionate about? ⚡
 * Backend Development: What's more exciting than designing and coding the backbone of a system?
 * Testing: It's always fun to break a working code 👓
@@ -19,16 +19,14 @@ My most recent occupations:
    * Check out my paper 🤓: [On The Effect of Graph Representation of Source Code in Bug Detection](https://people.ece.ubc.ca/amirosein/files/graphStudy.pdf)
    * And my tool ⚒️: [Graph Neural Network for Javascript Source Code](https://github.com/msintaha/BugClassificationWithGNN)
 
-***
-*BUT*, I'm always on a mission to learn something new..
+**BUT**, I'm always on a mission to learn something new..
  # What I'm learning 'now'? 🌱
- * System Design: Load balancers and Design Patterns for Microservices 
- * Programming Languages: Ruby and Go
- * Testing: How to test distributed and cloud-based systems
+ * System Design: Load balancers and Design Patterns for Microservices...
+ * Programming Languages: Ruby and Go...
+ * Testing: How to test distributed and cloud-based systems...
 
-Reach out to me if you wish to collaborate with me in my area of interests or if you want to learn these skills too! 
+Reach out to me if you wish to collaborate with me or if you want to learn these skills too! 
 
-***
  # How to reach me?
 
  [My Linkedin](https://www.linkedin.com/in/makhshari/) 
