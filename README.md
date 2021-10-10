@@ -1,7 +1,9 @@
 ### Who Am I?
 Hello 👋
 I'm Amir (he/him),
+
 I'm 25, graduated with masters from UBC Computer Engineering Department 🎓
+
 My most recent occupations: 
    - Research Assistant at SALT Lab @UBC ECE Department working on a research project funded by [Intel](https://www.intel.ca/content/www/ca/en/homepage.html)
    - Teaching Assistant at UBC CS department.
