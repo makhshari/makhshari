@@ -22,9 +22,12 @@ My most recent occupations:
 ***
 *BUT*, I'm always on a mission to learn something new..
  # What I'm learning 'now'? 🌱
-    - System Design: Load balancers
-    - Programming Languages: Ruby
-    - Testing:  
+ * System Design: Load balancers and Design Patterns for Microservices 
+ * Programming Languages: Ruby and Go
+ * Testing: How to test distributed and cloud-based systems
+
+Reach out to me if you wish to collaborate with me in my area of interests or if you want to learn these skills too! 
+
 ***
  # How to reach me?
 
