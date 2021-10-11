@@ -30,7 +30,7 @@ Reach out to me if you wish to collaborate with me or if you want to learn these
 
 ## When I'm not coding...
 * Playing drums
-   * I was the drummer for [Crows in the Rain](https://open.spotify.com/artist/2Xk3Hc122tA7NeychRuT0u?si=fZ8AacFlTEuNFnZ6XopEBg&dl_branch=1) for 3 years. We recorded three albums (23 songs) with some of them have [over 100k Streams on Spotify](https://open.spotify.com/track/2M4OCoJ5q4sYmItQ2YQcH8?si=aa2caadf74d14382). 
+   * I was the drummer for [Crows in the Rain](https://open.spotify.com/artist/2Xk3Hc122tA7NeychRuT0u?si=fZ8AacFlTEuNFnZ6XopEBg&dl_branch=1) for 3 years. We recorded three albums (23 songs) with some of the songs having [over 100k Streams on Spotify](https://open.spotify.com/track/2M4OCoJ5q4sYmItQ2YQcH8?si=aa2caadf74d14382). 
 * Spending time with friends and families, playing soccer, cooking, skateboarding, ...   
 
  # How to reach me?
