@@ -15,7 +15,7 @@ My most recent occupations:
 * Internet-of-Things (IoT): 
    * Check out my paper + presentation at [ICSE'21](https://conf.researchr.org/home/icse-2021) 🤓👔: [IoT Bugs and Development Challenges](https://conf.researchr.org/details/icse-2021/icse-2021-papers/67/IoT-Bugs-and-Development-Challenges)
    * Check out an IoT System I developed ⚒️: [RTTio](https://github.com/makhshari/RTTio)
-* Machine Learning:
+* Machine Learning on Source Code:
    * Check out my paper 🤓: [On The Effect of Graph Representation of Source Code in Bug Detection](https://people.ece.ubc.ca/amirosein/files/graphStudy.pdf)
    * And my tool ⚒️: [Graph Neural Network for Javascript Source Code](https://github.com/msintaha/BugClassificationWithGNN)
 
