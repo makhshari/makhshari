@@ -17,7 +17,7 @@ My most recent occupations:
    * Check out an IoT System I developed ⚒️: [RTTio](https://github.com/makhshari/RTTio)
 * Machine Learning on Source Code:
    * Check out my paper 🤓: [On The Effect of Graph Representation of Source Code in Bug Detection](https://people.ece.ubc.ca/amirosein/files/graphStudy.pdf)
-   * And my tool ⚒️: [Graph Neural Network for Javascript Source Code](https://github.com/msintaha/BugClassificationWithGNN)
+   * And my tool ⚒️: [Graph Neural Network for Javascript Source Code](https://github.com/makhshari/BugClassificationWithGNN)
 
 **BUT**, I'm always on a mission to learn something new..
  # What I'm learning 'now'? 🌱
