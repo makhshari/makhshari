@@ -22,10 +22,10 @@ My most recent occupations:
    * paper 🤓: [On The Effect of Graph Representation of Source Code in Bug Detection](https://people.ece.ubc.ca/amirosein/files/graphStudy.pdf)
    * bug detection + source code representation tool ⚒️: [Graph Neural Network for Javascript Source Code](https://github.com/makhshari/BugClassificationWithGNN)
    * spam detection⚒️: [Spam.ML](https://github.com/makhshari/SMS_SPAM_DETECTION_Naive_Bayes)
-* And I love algorithms:
-   * [8-puzzle problem](https://github.com/makhshari/8puzzle-1)
-   * [Travelling Salesman problem](https://github.com/makhshari/TravelingSalesmanProblem)
-   * [Roman Routing problem] (https://github.com/makhshari/RomanyCities)
+* And I love algorithms 🧠:
+   * 🧠 [8-puzzle problem](https://github.com/makhshari/8puzzle-1)
+   * 🧠 [Travelling Salesman problem](https://github.com/makhshari/TravelingSalesmanProblem)
+   * 🧠 [Roman Routing problem](https://github.com/makhshari/RomanyCities)
 
 **BUT**, I'm always on a mission to learn something new..
  # What I'm learning 'now'? 🌱
