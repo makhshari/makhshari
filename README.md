@@ -16,11 +16,16 @@ My most recent occupations:
 * Internet-of-Things (IoT): 
    * conference paper + presentation at [ICSE'21](https://conf.researchr.org/home/icse-2021) 🤓👔: [IoT Bugs and Development Challenges](https://conf.researchr.org/details/icse-2021/icse-2021-papers/67/IoT-Bugs-and-Development-Challenges)
    * IoT System for controlling TV transmitters ⚒️: [RTTio](https://github.com/makhshari/RTTio)
-   * IoT System for controlling light bulbs: [prims.io](https://github.com/makhshari/lightBulb)
-   * IoT platform backend: [AUT.io](https://github.com/makhshari/backend) 
+   * IoT System for controlling light bulbs ⚒️: [prims.io](https://github.com/makhshari/lightBulb)
+   * IoT platform backend ⚒️: [AUT.io](https://github.com/makhshari/backend) 
 * Machine Learning on Source Code:
    * paper 🤓: [On The Effect of Graph Representation of Source Code in Bug Detection](https://people.ece.ubc.ca/amirosein/files/graphStudy.pdf)
-   * tool ⚒️: [Graph Neural Network for Javascript Source Code](https://github.com/makhshari/BugClassificationWithGNN)
+   * bug detection + source code representation tool ⚒️: [Graph Neural Network for Javascript Source Code](https://github.com/makhshari/BugClassificationWithGNN)
+   * spam detection⚒️: [Spam.ML](https://github.com/makhshari/SMS_SPAM_DETECTION_Naive_Bayes)
+* And I love algorithms:
+   * [8-puzzle problem](https://github.com/makhshari/8puzzle-1)
+   * [Travelling Salesman problem](https://github.com/makhshari/TravelingSalesmanProblem)
+   * [Roman Routing problem] (https://github.com/makhshari/RomanyCities)
 
 **BUT**, I'm always on a mission to learn something new..
  # What I'm learning 'now'? 🌱
