@@ -11,13 +11,16 @@ My most recent occupations:
 # What I'm passionate about? ⚡
 * Backend Development: What's more exciting than designing and coding the backbone of a system?
 * Testing: It's always fun to break a working code 👓
-   * Check out my testing tool ⚒️: [StressThing](https://github.com/makhshari/StressThing)
+   * API testing tool ⚒️: [StressThing](https://github.com/makhshari/StressThing)
+   * Android test automation tool⚒️: [DrodCov](https://github.com/makhshari/DroidCov)
 * Internet-of-Things (IoT): 
-   * Check out my paper + presentation at [ICSE'21](https://conf.researchr.org/home/icse-2021) 🤓👔: [IoT Bugs and Development Challenges](https://conf.researchr.org/details/icse-2021/icse-2021-papers/67/IoT-Bugs-and-Development-Challenges)
-   * Check out an IoT System I developed ⚒️: [RTTio](https://github.com/makhshari/RTTio)
+   * conference paper + presentation at [ICSE'21](https://conf.researchr.org/home/icse-2021) 🤓👔: [IoT Bugs and Development Challenges](https://conf.researchr.org/details/icse-2021/icse-2021-papers/67/IoT-Bugs-and-Development-Challenges)
+   * IoT System for controlling TV transmitters ⚒️: [RTTio](https://github.com/makhshari/RTTio)
+   * IoT System for controlling light bulbs: [prims.io](https://github.com/makhshari/lightBulb)
+   * IoT platform backend: [AUT.io](https://github.com/makhshari/backend) 
 * Machine Learning on Source Code:
-   * Check out my paper 🤓: [On The Effect of Graph Representation of Source Code in Bug Detection](https://people.ece.ubc.ca/amirosein/files/graphStudy.pdf)
-   * And my tool ⚒️: [Graph Neural Network for Javascript Source Code](https://github.com/makhshari/BugClassificationWithGNN)
+   * paper 🤓: [On The Effect of Graph Representation of Source Code in Bug Detection](https://people.ece.ubc.ca/amirosein/files/graphStudy.pdf)
+   * tool ⚒️: [Graph Neural Network for Javascript Source Code](https://github.com/makhshari/BugClassificationWithGNN)
 
 **BUT**, I'm always on a mission to learn something new..
  # What I'm learning 'now'? 🌱
